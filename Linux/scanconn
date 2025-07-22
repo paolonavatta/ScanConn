@@ -1,0 +1,4 @@
+#!/bin/bash
+# ScanConn v0.1.0
+
+python3 "/usr/local/bin/ScanConn.py"
