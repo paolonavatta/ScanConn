@@ -16,7 +16,7 @@ ScanConn allows you to scan your active TCP connections using VirusTotal to dete
 <br>
 <br>
 
-## <p align="center">📥 Setup</p>
+## <p align="center">📦 Setup</p>
 
 Clone the repository:
 ```
@@ -25,7 +25,7 @@ git clone https://github.com/paolonavatta/ScanConn.git
 
 <br>
 
-### <p align="center">Windows</p>
+### <p align="center">🪟 Windows</p>
 
 - Open the **Command Prompt** with Administrator privileges (choose **Run as administrator**)
 - Navigate to the `Windows` folder
@@ -38,7 +38,7 @@ git clone https://github.com/paolonavatta/ScanConn.git
 <br>
 <br>
 
-### <p align="center">Linux</p>
+### <p align="center">🐧 Linux</p>
 
 - Open **Bash**
 - Navigate to the `Linux` folder
